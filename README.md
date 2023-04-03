@@ -598,6 +598,7 @@ Here are some companies/projects (alphabetical order) using OpenAPI Generator in
 - [Adyen](https://www.adyen.com/)
 - [Agoda](https://www.agoda.com/)
 - [Airthings](https://www.airthings.com/)
+- [Aleri Solutions GmbH](https://www.aleri.de/)
 - [Allianz](https://www.allianz.com)
 - [Angular.Schule](https://angular.schule/)
 - [Aqovia](https://aqovia.com/)
